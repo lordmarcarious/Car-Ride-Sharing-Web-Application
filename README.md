@@ -1,0 +1,1 @@
+To run the program Web Application, you are going to need XAMPP installed on your computer. After you have installed XAMPP(Watch Youtube Tutorial), Paste "http://localhost/Car-Ride-Sharing-Web-Application/index.php" in your browser and voila, you have successfully found yourself at the login page
